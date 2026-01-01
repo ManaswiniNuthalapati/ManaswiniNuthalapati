@@ -6,7 +6,7 @@
 <h2 align="center">I am Manaswini Nuthalapati</h2>
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I am Manaswini Nuthalapati, a 3rd-year B.Tech student passionate about Data Science, AI, Python, and ML. I enjoy building real-world projects, especially in analytics and intelligent applications. With skills in Python,  SQL, DBMS, OOP, and DSA, I’m continuously improving my problem-solving and development abilities. I aim to learn, innovate, and contribute to impactful tech solutions.</p>
+<p align="left">I am Manaswini Nuthalapati, a 3rd-year B.Tech student passionate about Data Science, AI, Python, and ML. I enjoy building real-world projects, especially in analytics and intelligent applications. With skills in Python,  SQL,  OOP, and DSA, I’m continuously improving my problem-solving and development abilities. I aim to learn, innovate, and contribute to impactful tech solutions.</p>
 
 ###
 
