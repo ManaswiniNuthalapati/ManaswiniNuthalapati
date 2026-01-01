@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=48&fontAlignY=40&fontColor=ffffff&stroke=ffffff&strokeWidth=2&color=0:ff7eb3,100:9b72ff&t=7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=60&fontAlignY=40&fontColor=ffffff&stroke=ffffff&strokeWidth=2&color=0:cf8aa9,100:8a72d8&t=10" />
 </p>
   </div>
 <h2 align="center">I am Manaswini Nuthalapati</h2>
