@@ -8,7 +8,15 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I am Manaswini Nuthalapati, a 3rd-year B.Tech student passionate about Data Science, AI, Python, and ML. I enjoy building real-world projects, especially in analytics and intelligent applications. With skills in Python,  SQL,  OOP, and DSA, I’m continuously improving my problem-solving and development abilities. I aim to learn, innovate, and contribute to impactful tech solutions.</p>
 
-###
+<h3 align="left">🚀 What I’m Currently Doing</h3>
+<div align="left">
+  <ul>
+    <li>🧠 Learning Data Science & Machine Learning</li>
+    <li>💻 Working on real-world analytics & AI projects</li>
+    <li>🎯 Preparing for placements with DSA & Problem Solving</li>
+  </ul>
+</div>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -39,13 +47,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo"  />
+ <img src="https://cdn.simpleicons.org/github/FFFFFF" height="32" alt="github logo"/>
 </div>
 
 <h3 align="left">🔗 Profiles</h3>
-
-###
-
+<p>
+Connect with me on my professional platforms 
+</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/manaswini-nuthalapati-a4379b31b/" target="_blank">
     <img 
@@ -75,3 +83,8 @@
   </a>
 
 ###
+<h3 align="left">📈 Contribution Stats </h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManaswiniNuthalapati&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
