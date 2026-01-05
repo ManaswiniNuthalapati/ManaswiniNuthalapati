@@ -17,7 +17,6 @@
   </ul>
 </div>
 
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -88,3 +87,8 @@ Connect with me on my professional platforms
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManaswiniNuthalapati&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Manaswini_Nuthalapati?theme=dark&font=Karma&ext=heatmap" />
+</p>
